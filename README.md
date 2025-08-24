@@ -2,6 +2,9 @@
 
 This project provides a detailed Power BI-based analytical dashboard built on real-world healthcare data from **Papollo Hospitals**. The goal is to extract actionable insights into hospital operations, patient diagnosis trends, billing patterns, and staff feedback.
 
+<img width="1534" height="892" alt="image" src="https://github.com/user-attachments/assets/50b9772b-ed70-47fb-b54c-14ecb0943dc2" />
+
+
 ## 📊 Project Overview
 
 The dashboard visualizes and analyzes data to assist hospital administrators in understanding:
